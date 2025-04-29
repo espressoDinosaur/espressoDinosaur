@@ -64,7 +64,7 @@ A motivated fresh graduate from Central Luzon State University (CLSU) with stron
 
 <div align="center">
 
-![Image]()
+<img src="assets/AWS_cert.jpg" alt="Image" width="500" height="auto">
 
 <strong>Amazon Web Services (AWS) Academic Cloud Foundations</strong> <br>
 December 2024
