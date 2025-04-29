@@ -54,7 +54,7 @@ A motivated fresh graduate from Central Luzon State University (CLSU) with stron
 
 <div align="center">
 
-| ![](image1.png) | ![](image2.png) |
+| <img src="assets/ircite.jpg" width="300"/> | ![](image2.png) |
 |----------------|----------------|
 |First Runner Up - Blockchain Hackathon Programming Challenge (IRCITE 2024)|Consistent Academic Scholar from 2021 - 2025
 
