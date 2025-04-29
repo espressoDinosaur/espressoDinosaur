@@ -27,65 +27,6 @@ A motivated fresh graduate from Central Luzon State University (CLSU) with stron
 
 </div>
 
-## ⚙️ Projects
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
-
-<p align="center">
-    <strong style="font-size: 16px;">INFORMATIVE BLOG WEBSITE BUILT WITH LARAVEL FRAMEWORK</strong> <hr>
-    A dynamic and user/student-friendly blog website developed using Laravel Framework which features engaging articles, informative contents, and professional design.
-
-</p>
-
-<div align="right">
-
-[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-The_Mechanics-blue)](https://www.example.com)
-
-</div>
-
-<!-- Image of the project -->
-![The Mechanics: The Official Student Publication of the College of Engineering]()
-
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
-
-<p align="center">
-    <strong style="font-size: 16px;">BLOCKCHAIN-BASED MEDICAL RECORD AND APPOINTMENT HANDLING SYSTEM</strong> <hr>
-    A system that integrates blockchain technology and Web 3.0 into decentralized management system for secure patient medical records and appointment handling
-
-</p>
-
-<div align="right">
-
-[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-BMRAHS-blue)](https://www.example.com)
-
-</div>
-
-<!-- Image of the project -->
-![Blockchain-Based Medical Record and Appointment Handling System]()
-
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
-
-<p align="center">
-    <strong style="font-size: 16px;">DYNAMIC AND RESPONSIVE E-COMMERCE WEBSITES USING HTML, CSS, JAVASCRIPT, AND PHP</strong> <hr>
-    A robust e-commerce platforms utilizing HTML, CSS, JavaScript, and PHP that offers seamless and engaging online shopping Experience
-
-</p>
-
-<div align="right">
-
-[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-Local_Point-blue)](https://www.example.com)
-
-</div>
-
-<!-- Image of the project -->
-![E-Commerce Websites]()
-
-</div>
-
 ## 📚 Curriculum Vitae
 
 <div style="padding-left: 15px;">
@@ -143,5 +84,64 @@ December 2024
 <strong>Gmail: </strong> gabor.richardallen@gmail.com
 <br>
 <strong>Viber: </strong> 0919-671-8532
+
+</div>
+
+## ⚙️ Projects
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
+
+<p align="center">
+    <strong style="font-size: 16px;">INFORMATIVE BLOG WEBSITE BUILT WITH LARAVEL FRAMEWORK</strong> <hr>
+    A dynamic and user/student-friendly blog website developed using Laravel Framework which features engaging articles, informative contents, and professional design.
+
+</p>
+
+<div align="right">
+
+[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-The_Mechanics-blue)](https://www.example.com)
+
+</div>
+
+<!-- Image of the project -->
+![The Mechanics: The Official Student Publication of the College of Engineering]()
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
+
+<p align="center">
+    <strong style="font-size: 16px;">BLOCKCHAIN-BASED MEDICAL RECORD AND APPOINTMENT HANDLING SYSTEM</strong> <hr>
+    A system that integrates blockchain technology and Web 3.0 into decentralized management system for secure patient medical records and appointment handling
+
+</p>
+
+<div align="right">
+
+[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-BMRAHS-blue)](https://www.example.com)
+
+</div>
+
+<!-- Image of the project -->
+![Blockchain-Based Medical Record and Appointment Handling System]()
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 5px 10px 5px 10px; margin-bottom: 10px">
+
+<p align="center">
+    <strong style="font-size: 16px;">DYNAMIC AND RESPONSIVE E-COMMERCE WEBSITES USING HTML, CSS, JAVASCRIPT, AND PHP</strong> <hr>
+    A robust e-commerce platforms utilizing HTML, CSS, JavaScript, and PHP that offers seamless and engaging online shopping Experience
+
+</p>
+
+<div align="right">
+
+[![Go to Page](https://img.shields.io/badge/Go%20to%20Page-Local_Point-blue)](https://www.example.com)
+
+</div>
+
+<!-- Image of the project -->
+![E-Commerce Websites]()
 
 </div>
