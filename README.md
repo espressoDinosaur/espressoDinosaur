@@ -59,6 +59,14 @@ A motivated fresh graduate from Central Luzon State University (CLSU) with stron
 
 </div>
 
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="assets/ircitee.png" alt="E-Commerce" style="width: 750px;" />
+
+</div>
+
 ## 📜 Certifications
 
 <div align="center">
@@ -83,15 +91,5 @@ December 2024
 <strong>Gmail: </strong> gabor.richardallen@gmail.com
 <br>
 <strong>Viber: </strong> 0919-671-8532
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| <img src="assets/ircite.jpg" width="300"/> | ![](image2.png) |
-|----------------|----------------|
-|First Runner Up - Blockchain Hackathon Programming Challenge (IRCITE 2024)|Consistent Academic Scholar from 2021 - 2025
 
 </div>
