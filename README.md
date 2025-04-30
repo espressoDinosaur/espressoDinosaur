@@ -63,7 +63,7 @@ A motivated fresh graduate from Central Luzon State University (CLSU) with stron
 
 <div align="center">
 
-<img src="assets/ircitee.png" alt="E-Commerce" style="width: 750px;" />
+<img src="assets/ircitee.png" alt="International Research Conference on Information Technology Education" style="width: 750px;" />
 
 </div>
 
